@@ -1,4 +1,4 @@
-### Hi, I'm Renz-084 👋 from Kisumu, KE 🇰🇪
+### Hi, I'm Renz-084 👋 from kericho, KE 🇰🇪
 
 - 👨‍💻 Developer | Learning Web Dev & Python
 - 🚀 Focus: Building cool stuff for the web
